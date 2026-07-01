@@ -1,0 +1,15 @@
+# Markham Heating & Cooling
+
+> Licensed, insured HVAC company in Markham, Ontario. A full-service heating and cooling team handling furnace and AC repair, heat pumps, ductless systems, thermostats, and duct cleaning, plus seasonal maintenance, for homeowners across Markham and York Region. Call (905) 472-3610.
+
+## Key pages
+- [Home](https://markhamheatingcooling.ca/)
+- [Services](https://markhamheatingcooling.ca/services/)
+- [About](https://markhamheatingcooling.ca/about/)
+- [Blog](https://markhamheatingcooling.ca/blog/)
+- [Contact](https://markhamheatingcooling.ca/contact/)
+
+## Contact
+- Phone: (905) 472-3610
+- Email: contact@markhamheatingcooling.ca
+- Area served: Markham, Ontario and York Region
