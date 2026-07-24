@@ -1,15 +1,26 @@
 # Markham Heating & Cooling
 
-> Licensed, insured HVAC company in Markham, Ontario. A full-service heating and cooling team handling furnace and AC repair, heat pumps, ductless systems, thermostats, and duct cleaning, plus seasonal maintenance, for homeowners across Markham and York Region. Call (905) 472-3610.
+> Markham Heating & Cooling is a local HVAC company serving Markham, York Region, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (905) 472-3610  |  Email: contact@markhamheatingcooling.ca  |  Website: https://markhamheatingcooling.ca
+
+Service areas: Markham, Richmond Hill, Newmarket, Aurora, Vaughan, Keswick, Stouffville, King City
 
 ## Key pages
-- [Home](https://markhamheatingcooling.ca/)
-- [Services](https://markhamheatingcooling.ca/services/)
-- [About](https://markhamheatingcooling.ca/about/)
-- [Blog](https://markhamheatingcooling.ca/blog/)
-- [Contact](https://markhamheatingcooling.ca/contact/)
 
-## Contact
-- Phone: (905) 472-3610
-- Email: contact@markhamheatingcooling.ca
-- Area served: Markham, Ontario and York Region
+- [Home](https://markhamheatingcooling.ca/): Markham Heating & Cooling homepage with service overview and FAQ
+- [About](https://markhamheatingcooling.ca/about/): About the company and service area
+- [Contact](https://markhamheatingcooling.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Furnace Installation & Repair](https://markhamheatingcooling.ca/services/furnace-repair/): Furnace Installation & Repair in Markham, Ontario
+- [AC Installation & Repair](https://markhamheatingcooling.ca/services/ac-repair/): AC Installation & Repair in Markham, Ontario
+- [Heat Pumps](https://markhamheatingcooling.ca/services/heat-pump-repair-installation/): Heat Pumps in Markham, Ontario
+- [Duct Cleaning](https://markhamheatingcooling.ca/services/duct-cleaning/): Duct Cleaning in Markham, Ontario
+- [Thermostats](https://markhamheatingcooling.ca/services/thermostat-repair-replacement/): Thermostats in Markham, Ontario
+- [Ductless AC Installation](https://markhamheatingcooling.ca/services/ductless-ac-installation/): Ductless AC Installation in Markham, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Markham are answered on the homepage.
